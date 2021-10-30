@@ -1,7 +1,7 @@
 # Face Recognition Project
 This repository contains code for facial recognition using OpenCV and python with a Tkinter GUI interface. If you want to test the code then run the train.py file
 The technology used: -OpenCV (Opensource Computer Vision) -Python -Tkinter GUI interface
-Here I am working on a Face recognition based Attendance Management System by using OpenCV(Python). One can mark their attendance by simply facing the camera.
+Here I am working on a Face recognition based Attendance Management System by using OpenCV(Python). One can mark their attendance by simply facing the camera. And their attendance is saved in the CSV file.
 
 
 ## How it works :
